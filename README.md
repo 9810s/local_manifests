@@ -1,6 +1,6 @@
 # Local Manifests for Galaxy S9 / S9+ / Note9
 
-These trees have **forced encryption** for non-encrypted trees use the twelve-noencrypt branch
+These trees have **forced encryption**.
 
 ## Encrypted
 ```git clone https://github.com/9810s/local_manifests -b thirteen .repo/local_manifests```
